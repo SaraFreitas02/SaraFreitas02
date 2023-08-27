@@ -28,8 +28,3 @@ I am engaged in an ongoing learning process, and I anticipate that this project,
 *Feel free to explore my projects and get in touch if you'd like to collaborate!* 😊
 - [Email Me](mailto:sarafreitas.contact@gmail.com)
 
-
-## 📝 License
-
-This profile README is available under the [MIT License](LICENSE).
-
