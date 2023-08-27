@@ -10,12 +10,13 @@ I'm a self-taught web developer and programmer based in *The Netherlands*. I'm p
 - ...and always eager to learn more!
 
 ## 🚀 Projects
-The projects I have completed at the moment are simple in nature, serving the purpose of practice and exploration of various features within HTML, CSS, and JavaScript. I plan to continue working on more of such projects, with a concurrent aspiration to embark on larger and more complex endeavors.
+The projects I have completed at the moment are simple in nature, serving the purpose of practice and exploration of various features within HTML, CSS, and JavaScript. Some examples are:
 
-- [Simple Language Selector](https://github.com/SaraFreitas02/LanguageSelector.js-practice):  It features a basic language-switching function that allows users to choose between the English and Portuguese language by selcting the respective option on the selection feature.
-- [Simple Language Switcher](https://sarafreitas02.github.io/LanguageSwitcher.js-practice/): It features a basic language-switching function that allows users to toggle between English and Portuguese greetings by clicking corresponding buttons..
-- [Number Changer](https://sarafreitas02.github.io/NumberChanger.js-practice/): It provides a basic interface that allows users to choose a number and increase or decrease it with the click of buttons..
+- [Number Changer](https://sarafreitas02.github.io/NumberChanger.js-practice/): It provides a basic interface that allows users to choose a number and increase or decrease it with the click of buttons.
+- [Radio Button Message Generator](https://sarafreitas02.github.io/RadioBtnMsgGen.js-practice/): It is a JavaScript exploration, enabling dynamic messaging through radio button choices.
+- [Guess the Number Game](https://sarafreitas02.github.io/NumGuessGame/): It showcases a simple yet entertaining number-guessing game.
 
+ I plan to continue working on more of such projects, with a concurrent aspiration to embark on larger and more complex endeavors. 
 ## 🌱 Goals
 
 I'm currently working on a [Vet Registration Form](https://sarafreitas02.github.io/Vet-Registration-Form/). 
