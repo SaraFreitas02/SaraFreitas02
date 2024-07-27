@@ -10,10 +10,12 @@ I'm a self-taught web developer and programmer based in *The Netherlands*. I'm p
 - CSS
 - JavaScript
 - jQuery
+- Python
 
 ### 2. Other
 - Git & GitHub
 - Visual Studio Code
+- React
 
 
 ## 🚀 Projects
