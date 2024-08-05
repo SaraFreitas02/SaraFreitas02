@@ -1,25 +1,30 @@
 # Hello, I'm Sara 👋
 
-I'm a self-taught web developer and programmer based in *The Netherlands*. I'm passionate about coding, and I'm constantly learning and building projects to improve my skills.
+I am currently on self-teaching journey of web development and programming . I'm passionate about coding, and I'm constantly learning and building projects to improve my skills.
 
 ## 🔧 Skills & Tools
-*... always eaguer to improve and learn more ...*
+*in a continuous process of learning and improving*
 
-### 1. Languages
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- Python
-
-### 2. Other
-- Git & GitHub
-- Visual Studio Code
+### Intermediate to Expert Level
+- HTML5
+- CSS3 (incl. Flexbox and Bootstrap)
+- JavaScript (incl. Jquery)
+  
+### Begginer Level or Exploring
+- JSON and AJAX
 - React
+- Python
+- MongoDB
+- PostgreSQL
 
+### Preferences
+- **Backend Technology:** Node.js
+- **Version Control:** Git and Github
+- **Code Editor:** Visual Studio Code
 
 ## 🚀 Projects
 - All the repositories in which the name ends in **.js-practice**, consist of basic and simplistic javascript practice projects that may or may not be upgraded in the future.
+- The repositories named *module**X**-solution-coursera*, are assignments from the *HTML, CSS and Javascript for Web Developers* specialization brought by John Hopkins University to Coursera.
 - [**Number Guessing Game**](https://github.com/SaraFreitas02/Number-Guessing-Game.v2): simple and captivating game born from a *.js-practice* project.
 - [**Vet Registration Form**](https://github.com/SaraFreitas02/Vet-Registration-Form): registration form template for a veterinary clinic *(in progress)*.
 - [**Clothing Webshop - Venusya**](https://github.com/SaraFreitas02/Vet-Registration-Form): webshop for a fictional brand named Venusya *(in progress)*.
@@ -49,4 +54,5 @@ I am engaged in an ongoing learning process, and I anticipate that these project
 ## 📫 Get in Touch
 *Feel free to explore my projects and get in touch if you'd like to collaborate!* 😊
 - [Email Me](mailto:sarafreitas.contact@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/sara-freitas/)
 
