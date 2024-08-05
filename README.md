@@ -22,6 +22,9 @@ I am currently on self-teaching journey of web development and programming . I'm
 - **Version Control:** Git and Github
 - **Code Editor:** Visual Studio Code
 
+![Untitled design (2)](https://github.com/user-attachments/assets/957da097-b96c-41d3-becf-81d4bf581000)
+
+
 ## 🚀 Projects
 - All the repositories in which the name ends in **.js-practice**, consist of basic and simplistic javascript practice projects that may or may not be upgraded in the future.
 - The repositories named *module**X**-solution-coursera*, are assignments from the *HTML, CSS and Javascript for Web Developers* specialization brought by John Hopkins University to Coursera.
