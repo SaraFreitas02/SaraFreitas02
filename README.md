@@ -54,5 +54,5 @@ I am engaged in an ongoing learning process, and I anticipate that these project
 ## 📫 Get in Touch
 *Feel free to explore my projects and get in touch if you'd like to collaborate!* 😊
 - [Email Me](mailto:sarafreitas.contact@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/sara-freitas/)
+- [Linkedin](https://www.linkedin.com/in/sara-freitas-02575b31b/)
 
