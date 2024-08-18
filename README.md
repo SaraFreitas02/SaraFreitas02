@@ -1,61 +1,76 @@
-# Hello, I'm Sara 👋
+# Import SaraFreitas from './world.js';
 
-I am currently on self-teaching journey of web development and programming . I'm passionate about coding, and I'm constantly learning and building projects to improve my skills.
-
-## 🔧 Skills & Tools
-*in a continuous process of learning and improving*
-
-### Intermediate to Expert Level
-- HTML5
-- CSS3 (incl. Flexbox and Bootstrap)
-- JavaScript (incl. Jquery)
-  
-### Begginer Level or Exploring
-- JSON and AJAX
-- React
-- Python
-- MongoDB
-- PostgreSQL
-
-### Preferences
-- **Backend Technology:** Node.js
-- **Version Control:** Git and Github
-- **Code Editor:** Visual Studio Code
-
-![Untitled design (2)](https://github.com/user-attachments/assets/957da097-b96c-41d3-becf-81d4bf581000)
-
-
-## 🚀 Projects
-- All the repositories in which the name ends in **.js-practice**, consist of basic and simplistic javascript practice projects that may or may not be upgraded in the future.
-- The repositories named *module**X**-solution-coursera*, are assignments from the *HTML, CSS and Javascript for Web Developers* specialization brought by John Hopkins University to Coursera.
-- [**Number Guessing Game**](https://github.com/SaraFreitas02/Number-Guessing-Game.v2): simple and captivating game born from a *.js-practice* project.
-- [**Vet Registration Form**](https://github.com/SaraFreitas02/Vet-Registration-Form): registration form template for a veterinary clinic *(in progress)*.
-- [**Clothing Webshop - Venusya**](https://github.com/SaraFreitas02/Vet-Registration-Form): webshop for a fictional brand named Venusya *(in progress)*.
-
-*(links lead to repositories)*
-
-## 🌱 Goals
-
-I'm currently working on:
-
-   - **[Vet Registration Form](https://sarafreitas02.github.io/Vet-Registration-Form/):**
-    My objective is to develop a streamlined yet dynamic veterinary clinic registration form. This form will empower clients to effortlessly register vital information about their pets while also facilitating the creation of user accounts. This dual-purpose approach 
-   aims to enhance operational efficiency for the veterinary clinic and provide a user-friendly, practical experience for clients.
-
-
-  - **[Venusya - Online Shop](https://sarafreitas02.github.io/Venusya/):**
-  This is an online store representing the fictitional cothing brand 'Venusya,' with the primary objective of providing a user-friendly shopping experience that aligns seamlessly with the brand's unique style while still being a dynamic and engaging online 
-  platform. Numerous enhancements and additions are planned to ensure that Venusya's webshop becomes responsive, intuitive, and effortlessly browsable across different devices and web browsers. All of this will be achieved while maintaining a visually appealing, 
-  minimalistic, and elegant aesthetic.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
-I am engaged in an ongoing learning process, and I anticipate that these projects, being the most complexesI have undertaken thus far, may require a substantial amount of time. Nevertheless, through continuous practice and experience, I am confident that I will be able to set more efficient timelines and achieve quicker project completion in the future.
+I’m currently on a self-taught journey in web development and programming. I’m passionate about coding and continuously learning and building projects to improve my skills and broaden my expertise.
 
-*(links lead to websites)*
 
-## 📫 Get in Touch
-*Feel free to explore my projects and get in touch if you'd like to collaborate!* 😊
-- [Email Me](mailto:sarafreitas.contact@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/sara-freitas-02575b31b/)
+| **Category**         | **Technologies**                      | **Level**       |
+|----------------------|---------------------------------------|----------------|
+| 🌐 Front-end         | HTML5, CSS3, JavaScript               | Intermediate   |
+| ⚙️ Back-end          | Node.js, JSON, AJAX, MongoDB, PostgreSQL | Beginner     |
+| 📚 Frameworks & Libraries       | React, jQuery, Bootstrap             | Intermediate  |
+| 🗂️ Version Control & Tools      | Git, GitHub, DevTools, Lighthouse    | Intermediate   |
+| 🖥️ Code Editors                 | Visual Studio Code                   | Intermediate   |
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+## Projects
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+[**Vet Clinic Registration Form**](https://github.com/SaraFreitas02/Vet-Registration-Form): Simple engaging and responsive form registration for an imaginary veterinary clinic.
+
+[**Number Guessing Game**](https://github.com/SaraFreitas02/Number-Guessing-Game.v2): Basic Number Guessing Game where users attempt to match their guess with a computer-generated number.
+
+[**Venusya Store**](https://github.com/SaraFreitas02/Venusya): Engaging and responsive webshop for a fictional brand *(on hold)*.
+
+<br>
+<br>
+
+## Learning
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=ajax&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+[**Assignments**](https://github.com/SaraFreitas02/web-development-assignments): All the assignments from the Web Development Course I took part in.
+
+[**JavaScript Draft**](https://github.com/SaraFreitas02/javascript-pratice): Simple code snippets created while 'messing around ' with JavaScript.
+
+<br>
+<br>
+<br>
+<br>
+
+
+## Goals
+My main goal is to become a full-stack developer, but my back-end skills are still being refined. I currently have a stronger foundation in front-end development, so I consider myself more of a front-end developer at this stage. Right now, I am focused on building a solid knowledge base, after which I plan to set challenging projects to further encourage my growth.
+<br>
+I have an ongoing project in my repositories, [**Venusya Store**](https://github.com/SaraFreitas02/Venusya), but this is on hold while I continue deepening my knowledge and exploring my preferences. However, it is in my goal list to finish it in the near future.
+
+<br>
+<br>
+<br>
+<br>
+
+## Get in Touch
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+](mailto:sarafreitas.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-freitas-02575b31b/)
 
