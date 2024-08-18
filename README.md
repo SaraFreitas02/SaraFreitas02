@@ -47,11 +47,14 @@ Iâ€™m currently on a self-taught journey in web development and programming. Iâ€
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=ajax&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Animations](https://img.shields.io/badge/Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 [**Assignments**](https://github.com/SaraFreitas02/web-development-assignments): All the assignments from the Web Development Course I took part in.
 
 [**JavaScript Draft**](https://github.com/SaraFreitas02/javascript-pratice): Simple code snippets created while 'messing around ' with JavaScript.
+
+[**Animations Draft**](https://github.com/SaraFreitas02/animations): Playground of animations.
 
 <br>
 <br>
