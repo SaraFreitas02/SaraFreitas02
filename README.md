@@ -15,8 +15,8 @@ I’m currently on a self-taught journey in web development and programming. I�
 | **Category**         | **Technologies**                      | **Level**       |
 |----------------------|---------------------------------------|----------------|
 | 🌐 Front-end         | HTML5, CSS3, JavaScript               | Intermediate   |
-| ⚙️ Back-end          | Node.js, JSON, AJAX, MongoDB, PostgreSQL | Beginner     |
-| 📚 Frameworks & Libraries       | React, jQuery, Bootstrap             | Intermediate  |
+| ⚙️ Back-end          | NodeJS, JSON, AJAX, MongoDB, PostgreSQL | Beginner     |
+| 📚 Frameworks & Libraries       | ReactJS, Expo React Native, jQuery, Bootstrap             | Intermediate  |
 | 🗂️ Version Control & Tools      | Git, GitHub, DevTools, Lighthouse    | Intermediate   |
 | 🖥️ Code Editors                 | Visual Studio Code                   | Intermediate   |
 
