@@ -38,8 +38,6 @@ Iâ€™m currently on a self-taught journey in web development and programming. Iâ€
 
 [**Number Guessing Game**](https://github.com/SaraFreitas02/Number-Guessing-Game.v2): Basic Number Guessing Game where users attempt to match their guess with a computer-generated number.
 
-[**Venusya Store**](https://github.com/SaraFreitas02/Venusya): Engaging and responsive webshop for a fictional brand *(on hold)*.
-
 <br>
 <br>
 
@@ -64,8 +62,6 @@ Iâ€™m currently on a self-taught journey in web development and programming. Iâ€
 
 ## Goals
 My main goal is to become a full-stack developer, but my backend skills are still being refined. I currently have a stronger foundation in frontend development, so I consider myself more of a frontend developer at this stage. Right now, I am focused on building a solid knowledge base, after which I plan to set challenging projects to further encourage my growth.
-<br>
-I have an ongoing project in my repositories, [**Venusya Store**](https://github.com/SaraFreitas02/Venusya), but this is on hold while I continue deepening my knowledge and exploring my preferences. However, it is in my goal list to finish it in the near future.
 
 <br>
 <br>
