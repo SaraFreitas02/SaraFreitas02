@@ -6,6 +6,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#FFA116)
 
 <br>
 
@@ -72,4 +73,5 @@ My main goal is to become a full-stack developer, but my backend skills are stil
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:sarafreitas.contact@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-freitas-02575b31b/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Sara_Freitas/)
 
