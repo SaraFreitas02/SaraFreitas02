@@ -71,7 +71,7 @@ My main goal is to become a full-stack developer, but my backend skills are stil
 
 ## Get in Touch
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-](mailto:sarafreitas.contact@gmail.com)
+](mailto:sarafreitasemail+github@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-freitas-02575b31b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Sara_Freitas/)
 
