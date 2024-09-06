@@ -10,9 +10,10 @@
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 <br>
-**Hi** 👋 **I am Sara.**
 
-I’m a web developer with a passion for continuous learning and growth. I enjoy building projects and challenging myself to apply my skills in real-world scenarios.
+**Hi 👋 I am Sara.**
+
+I’m a developer with a passion for continuous learning and growth. I enjoy building projects and challenging myself to apply my skills in real-world scenarios.
 
 <br>
 
@@ -66,7 +67,9 @@ I’m a web developer with a passion for continuous learning and growth. I enjoy
 
 
 ## Goals
-My main goal is to become a full-stack developer, but my backend skills are still being refined. I currently have a stronger foundation in frontend development, so I consider myself more of a frontend developer at this stage. Right now, I am focused on building a solid knowledge base, after which I plan to set challenging projects to further encourage my growth.
+My main goal is to become a full-stack developer, though I’m currently refining my backend skills. With a stronger foundation in frontend development, I primarily identify as a frontend developer at this stage. However, I’m keen on expanding my programming skills and exploring mobile app and game development.
+
+Right now, my focus is on building a solid knowledge base, and I’m excited to take on challenging projects that push me further and foster my growth.
 
 <br>
 <br>
