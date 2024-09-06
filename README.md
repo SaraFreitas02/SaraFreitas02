@@ -11,7 +11,10 @@
 
 <br>
 Hi! I am Sara!
-I’m a web developer passionate about coding.
+
+I’m a web developer with a passion for continuous learning and growth. I enjoy building projects and challenging myself to apply my skills in real-world scenarios.
+
+<br>
 
 
 | **Category**         | **Technologies**                      | **Level**       |
