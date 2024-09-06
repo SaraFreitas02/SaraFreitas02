@@ -10,8 +10,8 @@
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 <br>
-
-I’m currently on a self-taught journey in web development and programming. I’m passionate about coding and continuously learning and building projects to improve my skills and broaden my expertise.
+Hi! I am Sara!
+I’m a web developer passionate about coding.
 
 
 | **Category**         | **Technologies**                      | **Level**       |
