@@ -10,7 +10,7 @@
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 <br>
-**Hi 👋 I am Sara.**
+**Hi** 👋 **I am Sara.**
 
 I’m a web developer with a passion for continuous learning and growth. I enjoy building projects and challenging myself to apply my skills in real-world scenarios.
 
