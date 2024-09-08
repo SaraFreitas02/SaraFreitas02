@@ -65,7 +65,7 @@ I’m a developer with a passion for continuous learning and growth. I enjoy bui
 
 
 ## Goals
-My main goal is to become a full-stack developer, though I’m currently refining my backend skills. With a stronger foundation in frontend development, I primarily identify as a frontend developer at this stage. However, I’m keen on expanding my programming skills and exploring mobile app and game development.
+My main goal is to become a full-stack developer, though I’m currently refining my backend skills. With a stronger foundation in frontend development, I primarily identify as a frontend developer at this stage. However, I’m keen on expanding my programming skills and exploring mobile app development.
 
 Right now, my focus is on building a solid knowledge base, and I’m excited to take on challenging projects that push me further and foster my growth.
 
