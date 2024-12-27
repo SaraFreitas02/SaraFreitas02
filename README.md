@@ -20,7 +20,7 @@ I’m a developer with a passion for continuous learning and growth. I enjoy bui
 |----------------------|---------------------------------------|----------------|
 | 🌐 Front-end         | HTML5, CSS3, JavaScript               | Intermediate   |
 | ⚙️ Back-end          | NodeJS, JSON, AJAX, MongoDB | Beginner     |
-| 📚 Frameworks & Libraries       | ReactJS, Expo React Native, jQuery, Bootstrap             | Intermediate  |
+| 📚 Frameworks & Libraries       | ReactJS, Expo React Native, jQuery, Bootstrap, Puppeteer             | Intermediate  |
 | 🗂️ Version Control & Tools      | Git, GitHub, DevTools, Lighthouse    | Intermediate   |
 | 🖥️ Code Editors                 | Visual Studio Code                   | Intermediate   |
 
