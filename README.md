@@ -26,7 +26,7 @@ I currently code on Windows, but I am super open to trying Linux and IOS.
 | **Table of Contents**                           |
 | ----------------------------------------------- |
 | [Main Skills](#main-skills)                     |
-| [Journey and Goals](#journey-and-goals)         |
+| [Journey](#journey-and-goals)         |
 | [Why self-taught?](#why-self-taught)            |
 | [Goals](#goals)                                 |
 | [Projects](#projects)                           |
