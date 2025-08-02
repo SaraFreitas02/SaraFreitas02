@@ -53,32 +53,13 @@ I currently code on Windows, but I am super open to trying Linux and IOS.
 <br>
 <br>
 
-## Journey and Goals
+## Journey
 
 I am a self-taught developer on a journey to break into the tech industry.
 
 To bring more structure to my learning, I have completed a *Web Development* course on [Coursera](https://www.coursera.org) and am currently following [The Odin Project](https://www.theodinproject.com/). I regularly challenge myself with algorithmic problems on [LeetCode](https://leetcode.com) to strengthen my JavaScript skills.
 
 I am continuously building projects to apply my knowledge, and I am currently working on a private project that will soon go live with its own domain.
-
-<br>
-
-### Why self-taught?
-I chose the self-taught path because I believe development and programming are skills that thrive on hands-on practice. 
-
-I have supplemented my learning with structured resources like The Odin Project and LeetCode, and I believe that my growing portfolio will serve as proof of my abilities.
-
-<br>
-
-### 2025 Goals 
-
-**Main Goal**: Build a Strong Portfolio – <u>Deadline</u>: July 2025
-
-1. Complete My Private Project (Launching soon with its own domain)
-2. Complete The Odin Project while turning assignments into real-world mockup projects
-3. Develop and Publish My Portfolio Website
-
----
 
 <br>
 <br>
