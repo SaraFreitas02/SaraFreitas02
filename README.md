@@ -4,6 +4,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -43,9 +44,9 @@ I currently code on Windows, but I am super open to trying Linux and IOS.
 | **Category**               | **Technologies**                      | **Level**    |
 | -------------------------- | ------------------------------------- | ------------ |
 | 🌐 Front-end               | HTML5, CSS3, JavaScript               | Intermediate |
-| ⚙️ Back-end                | NodeJS, JSON, MongoDB                 | Intermediate |
-| 📚 Frameworks & Libraries  | ReactJS, jQuery, Font Awesome, Dotenv | Intermediate |
-| 🗂️ Version Control & Tools | Git, GitHub, DevTools, Lighthouse     | Intermediate |
+| ⚙️ Back-end                | NodeJS, JSON, MongoDB, PHP            | Beginner / Intermediate |
+| 📚 Frameworks & Libraries  | ReactJS, jQuery, Font Awesome, Dotenv | Beginner / Intermediate |
+| 🗂️ Version Control & Tools | Git, GitHub, DevTools, Lighthouse     | Beginner / Intermediate |
 | 🖥️ Code Editors            | Visual Studio Code                    | Intermediate |
 
 ---
