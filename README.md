@@ -14,7 +14,7 @@
 
 I am a `Junior Full-Stack` developer based in `The Netherlands` that loves the full control that traditional development allows. However, I also have a strong affinity for **ReactJS** and plan to expand my skills to Angular and NextJS in the future.
 
-On the backend, **NodeJS** is my go to, and I have a good understanding of **JSON**. When it comes to databases, my favorite is **MongoDB**.
+On the backend, **NodeJS** is my go to, and I have a good understanding of **JSON**. However, I have also worked with PHP. When it comes to databases, my favorite is **MongoDB**.
 
 I enjoy experimenting with different frameworks and libraries, such as **jQuery**, **Express**, **Dotenv** and **Font Awesome**.
 
